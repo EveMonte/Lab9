@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ООП\Laba9\Laba9\bin\Debug\Laba9.exe.config
+C:\Users\User\Desktop\ООП\Laba9\Laba9\bin\Debug\Laba9.exe
+C:\Users\User\Desktop\ООП\Laba9\Laba9\bin\Debug\Laba9.pdb
+C:\Users\User\Desktop\ООП\Laba9\Laba9\obj\Debug\Laba9.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ООП\Laba9\Laba9\obj\Debug\Laba9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП\Laba9\Laba9\obj\Debug\Laba9.exe
+C:\Users\User\Desktop\ООП\Laba9\Laba9\obj\Debug\Laba9.pdb
